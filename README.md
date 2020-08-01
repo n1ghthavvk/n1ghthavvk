@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Fun fact: Jintin but not Justin.
+Fun fact: HaiFengKao but not HaiFengKao.
 
 ![HaiFengKao's github stats](https://github-readme-stats.vercel.app/api?username=HaiFengKao&count_private=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jintin&layout=compact)
