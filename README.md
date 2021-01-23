@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-Fun fact: HaiFengKao but not HaiFengKao.
-
-![HaiFengKao's github stats](https://github-readme-stats.vercel.app/api?username=HaiFengKao&count_private=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiFengKao&layout=compact)
+![n1ghthavvk's github stats](https://github-readme-stats.vercel.app/api?username=n1ghthavvk&count_private=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1ghthavvk&layout=compact)
 <!--
-**HaiFengKao/HaiFengKao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**n1ghthavvk/n1ghthavvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
